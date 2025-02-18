@@ -1,0 +1,30 @@
+<html>
+<head>
+   <title>Ejercio 1</title>
+</head>
+<body>
+   <h1>Libros</h1>
+     <img src = "libros.jpg"  alt = "libros" width="500">
+   <p>Un libro es una obra impresa, manuscrita o pintada en una serie de hojas de papel, pergamino, vitela u otro material, unidas por un lado (es decir, encuadernadas) y protegidas con tapas, también llamadas cubiertas. Un libro puede tratar sobre cualquier tema. Según la definición de la Unesco, un libro debe poseer al menos veinticinco hojas (49 páginas), pues de veinticuatro hojas o menos sería un folleto; y de una hasta cuatro páginas se consideran hojas sueltas (en una o dos hojas).
+   <h2>Clasificación de generos literarios</h2>
+     <img src = "Generos.jpg"  alt = "recomendaciones" width="500">
+
+   <ol type = "I">
+     <li>El género narrativo</li>
+     <li>El género lírico</li>
+     <li>El género dramático</li>
+     <li>El género didáctico</li>
+     <li>El género poético</li>
+   <h3>Recomendaciones</h3>
+     <img src = "recomendaciones.jpg"  alt = "recomendaciones" width="500">
+   <h4>Historia de los libros</h4>
+   <p>Desde sus orígenes la humanidad ha tenido que hacer frente a una cuestión fundamental: la forma de preservar y transmitir su cultura, es decir, sus creencias y conocimientos, tanto en el espacio como en el tiempo.
+
+      El planteamiento de esta cuestión supone, por un lado, determinar la forma de garantizar la integridad intelectual del contenido de la obra y la conservación del soporte en el que fue plasmada y, por otro, encontrar el medio por el cual se mantendrá inalterada la intención o finalidad para la cual se concibió.
+      
+      Los orígenes de la historia del libro se remontan a las primeras manifestaciones pictóricas de nuestros antepasados, la pintura rupestre del hombre del paleolítico. Con un simbolismo, posiblemente cargado de significados mágicos, estas pinturas muestran animales, cacerías y otras escenas cotidianas del entorno natural del hombre antiguo que trataba de dominar las fuerzas adversas de la naturaleza, capturando su esencia mediante su representación.</p>
+   <h5>Donde leer</h5>
+   <a href = "https://www.ellibrototal.com/ltotal/"> LIBROS GRATIS  
+   <a href = "https://www.amazon.com.mx/b?ie=UTF8&node=9298576011"> DONDE COMPRAR LIBROS
+   </body>
+   </html>
